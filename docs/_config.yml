@@ -1,0 +1,25 @@
+# GitHub Pages（Jekyll）設定。kinasystems/columnfiler-support の docs/ に置く想定。
+# リポジトリ設定 → Pages → Source: Deploy from a branch, Branch: main / docs
+
+title: COLUMN Filer
+description: COLUMN Filer のサポート・プライバシーポリシー・使用許諾
+# GitHub Pages（github-pages gem）が同梱する minima のテーマ名は "minima"。
+# "jekyll-theme-minima" という gem は存在せず、指定するとビルドが失敗する。
+theme: minima
+permalink: pretty
+
+# プロジェクトページ（kinasystems.github.io/columnfiler-support/）の baseurl。
+# ユーザー/組織ページや独自ドメインに載せる場合は空文字にする。
+baseurl: "/columnfiler-support"
+url: "https://kinasystems.github.io"
+
+# 各ページの {{ site.email }} がこの値に置き換わる。木梨さんの判断（2026-09-13）で、
+# About画面・ヘルプの問い合わせ先（SupportMail.swift）と同じ kinasystems@mac.com に統一。
+email: "kinasystems@mac.com"
+
+# minima のフッターに出るリンク類は使わないので空に。
+minima:
+  social_links: {}
+
+exclude:
+  - PUBLISH-INSTRUCTIONS.md
