@@ -47,7 +47,7 @@ COLUMN Filer は macOS の App Sandbox の中で動作します。まだアク�
 
 ### 表示言語を変えたい
 
-COLUMN Filer は通常、macOS の言語設定に従います。アプリだけ別の言語で使いたいときは、環境設定（「COLUMN Filer」→「設定…」または ⌘,）の「言語」タブで「システムに合わせる」または特定の言語を選べます。変更は次回 COLUMN Filer を起動したときに反映されます。エラーメッセージなど一部の文言は日本語のまま表示されることがあります。
+COLUMN Filer は通常、macOS の言語設定に従います。アプリだけ別の言語で使いたいときは、環境設定（「COLUMN Filer」→「設定…」または ⌘,）の「言語」タブで「システムに合わせる」または特定の言語を選べます。変更は次回 COLUMN Filer を起動したときに反映されます。
 
 ### 一覧表示でフォルダのサイズが「—」と表示されます
 
@@ -112,7 +112,7 @@ While signed in with the same Apple ID, choose "Restore Purchases" from the purc
 
 ### I want to change the display language
 
-COLUMN Filer normally follows your macOS language setting. To use the app in a different language, open Settings ("COLUMN Filer" → "Settings…", or ⌘,) → the "Language" tab and choose "Match System" or a specific language. The change takes effect the next time you launch COLUMN Filer. Some text, such as error messages, may still appear in Japanese.
+COLUMN Filer normally follows your macOS language setting. To use the app in a different language, open Settings ("COLUMN Filer" → "Settings…", or ⌘,) → the "Language" tab and choose "Match System" or a specific language. The change takes effect the next time you launch COLUMN Filer.
 
 ### Folder sizes show as "—" in list view
 
